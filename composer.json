@@ -1,0 +1,26 @@
+{
+	"name": "salamwaddah/constants",
+	"description": "All PHP common constants",
+	"type": "library",
+	"license": "MIT",
+	"keywords": [
+		"constants"
+	],
+	"autoload": {
+		"psr-4": {
+			"SalamWaddah\\Constants\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Salam Waddah",
+			"email": "salamwaddah@gmail.com",
+			"homepage": "https://salamwaddah.com/",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"version": "0.0.0"
+}
