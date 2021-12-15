@@ -22,7 +22,7 @@ composer require salamwaddah/constants
 #### Credits
 
 This package is made and inspired from a combination of MIT open source packages as well as personal efforts. Please
-open a pull request if you feel to add your credits.
+open a pull request if you need to add your credits.
 
 - https://github.com/guiwoda/timezone-constants
 - https://github.com/repat/date-constants

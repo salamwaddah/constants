@@ -17,7 +17,7 @@ class Months
     public const NOVEMBER = 11;
     public const DECEMBER = 12;
 
-    // Number of days
+    // number of days
     public const DAYS_JAN = 31;
     public const DAYS_FEB = 28;
     public const DAYS_FEB_LEAP = 29;
