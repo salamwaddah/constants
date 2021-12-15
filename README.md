@@ -18,6 +18,10 @@ composer require salamwaddah/constants
     - [Environments](src/Development/Environments.php)
 - Finance
     - [Credit Cards](src/Finance/CreditCards.php)
+- Http
+    - [Codes](src/Http/Codes.php)
+    - [Content Types](src/Http/ContentTypes.php)
+    - [Methods](src/Http/Methods.php)
 
 #### Credits
 
