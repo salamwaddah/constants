@@ -16,18 +16,25 @@ composer require salamwaddah/constants
     - [Timezones](src/Calendar/Timezones.php)
 - Development
     - [Environments](src/Development/Environments.php)
+    - [Regex](src/Development/Regex.php)
 - Finance
     - [Credit Cards](src/Finance/CreditCards.php)
 - Http
     - [Codes](src/Http/Codes.php)
     - [Content Types](src/Http/ContentTypes.php)
     - [Methods](src/Http/Methods.php)
+- Location
+    - [American States](src/Location/AmericanStates.php)
+- Web
+    - [Browsers](src/Web/Browsers.php)
 
 #### Credits
 
 This package is made and inspired from a combination of MIT open source packages as well as personal efforts. Please
 open a pull request if you need to add your credits.
 
+- https://github.com/g4code/constants
 - https://github.com/guiwoda/timezone-constants
 - https://github.com/repat/date-constants
 - https://github.com/stevegrunwell/time-constants
+- https://github.com/YaangVu/sis-constant
