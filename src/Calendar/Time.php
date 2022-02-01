@@ -13,7 +13,8 @@ class Time
     public const DAY_IN_SECONDS = 86400;
     public const WEEK_IN_SECONDS = 604800;
     public const MONTH_IN_SECONDS = 2592000;
-    public const YEAR_IN_SECONDS = 31536000;
+    public const SIX_MONTHS_IN_SECONDS = 15552000; // 180 days
+    public const YEAR_IN_SECONDS = 31536000; // 365 days
 
     // minute based
     public const ONE_MINUTE = 1;
@@ -23,5 +24,6 @@ class Time
     public const DAY_IN_MINUTES = 1440;
     public const WEEK_IN_MINUTES = 10080;
     public const MONTH_IN_MINUTES = 43200;
-    public const YEAR_IN_MINUTES = 525600;
+    public const SIX_MONTHS_IN_MINUTES = 259200; // 180 days
+    public const YEAR_IN_MINUTES = 525600; // 365 days
 }
