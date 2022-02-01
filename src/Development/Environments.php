@@ -14,4 +14,6 @@ class Environments
     public const SANDBOX = 'sandbox';
     public const STAGE = 'stage';
     public const STAGING = 'staging';
+    public const TEST = 'test';
+    public const TESTING = 'testing';
 }
