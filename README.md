@@ -17,6 +17,7 @@ composer require salamwaddah/constants
 - Development
     - [Environments](src/Development/Environments.php)
     - [Regex](src/Development/Regex.php)
+    - [Statuses](src/Development/Statuses.php)
 - Finance
     - [Credit Cards](src/Finance/CreditCards.php)
 - Http
