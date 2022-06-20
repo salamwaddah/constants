@@ -1,10 +1,11 @@
 {
 	"name": "salamwaddah/constants",
-	"description": "All PHP common constants",
+	"description": "All PHP common constants, a collection of redundant constants you can use in PHP.",
 	"type": "library",
 	"license": "MIT",
 	"keywords": [
-		"constants"
+		"constants",
+		"php"
 	],
 	"autoload": {
 		"psr-4": {
