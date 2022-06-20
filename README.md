@@ -27,6 +27,8 @@ composer require salamwaddah/constants
     - [Methods](src/Http/Methods.php)
 - Location
     - [American States](src/Location/AmericanStates.php)
+- Media
+    - [File extensions](src/Media/FileExtensions.php)
 - Web
     - [Browsers](src/Web/Browsers.php)
 
