@@ -15,6 +15,7 @@ composer require salamwaddah/constants
     - [Time](src/Calendar/Time.php)
     - [Timezones](src/Calendar/Timezones.php)
 - Development
+    - [Console colors](src/Development/ConsoleColors.php)
     - [Environments](src/Development/Environments.php)
     - [Regex](src/Development/Regex.php)
     - [Statuses](src/Development/Statuses.php)
@@ -36,6 +37,7 @@ open a pull request if you need to add your credits.
 
 - https://github.com/g4code/constants
 - https://github.com/guiwoda/timezone-constants
+- https://github.com/mikeerickson/php-cli-colors
 - https://github.com/repat/date-constants
 - https://github.com/stevegrunwell/time-constants
 - https://github.com/YaangVu/sis-constant
