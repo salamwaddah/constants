@@ -2,6 +2,10 @@
 
 Statically access a set of common PHP constants for your PHP application.
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/salamwaddah/constants.svg?style=flat-square)](https://packagist.org/packages/salamwaddah/constants)
+[![Total Downloads](https://img.shields.io/packagist/dt/salamwaddah/constants.svg?style=flat-square)](https://packagist.org/packages/salamwaddah/constants)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+
 ## Installation
 
 ```bash
